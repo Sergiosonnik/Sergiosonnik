@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://github.com/Sergiosonnik/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/https://github.com/Sergiosonnik&style=flat-square&color=blue" alt=""/>
 <!--
 **Sergiosonnik/Sergiosonnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
