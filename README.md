@@ -2,12 +2,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRyYTVjMzUzcXh1ZXNlMTVsbm1kbmcyYjBhbHlpdWFxM3Z4ZmI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7WIKGClT7Z67vNMA/giphy.gif" width="100"/>
 </div>
 ## Hi there 👋
-https://x.com/SonnykSerhii/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +10,7 @@ https://x.com/SonnykSerhii/Twitter-blue?style=for-the-badge&logo=twitter&logoCol
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://x.com/SonnykSerhii/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <!--
