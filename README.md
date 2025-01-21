@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRyYTVjMzUzcXh1ZXNlMTVsbm1kbmcyYjBhbHlpdWFxM3Z4ZmI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7WIKGClT7Z67vNMA/giphy.gif" width="200"/>
   <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/serhii-sonnyk-4a2489348/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@serhiisonnyk5587">
