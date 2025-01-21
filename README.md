@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRyYTVjMzUzcXh1ZXNlMTVsbm1kbmcyYjBhbHlpdWFxM3Z4ZmI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7WIKGClT7Z67vNMA/giphy.gif" width="100"/>
 </div>
 ## Hi there 👋
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://github.com/Sergiosonnik/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <!--
 **Sergiosonnik/Sergiosonnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
